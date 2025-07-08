@@ -58,3 +58,7 @@ When the Gas sensor does not detect any harmful Gas
 When the Gas sensor detects the harmul gas
 
 <img width="1461" height="786" alt="Image" src="https://github.com/user-attachments/assets/48ac3b0e-7e6b-4c13-8727-5fa8544772b7" />
+
+Working
+
+https://github.com/user-attachments/assets/5f08b83f-1cfd-47aa-93e2-2196397a8087
