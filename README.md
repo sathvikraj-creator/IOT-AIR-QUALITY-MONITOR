@@ -51,10 +51,10 @@ Applications:
 
 # OUTPUT 
 
-
-
-<img width="1461" height="786" alt="Image" src="https://github.com/user-attachments/assets/48ac3b0e-7e6b-4c13-8727-5fa8544772b7" />
-
-
+When the Gas sensor does not detect any harmful Gas 
 
 <img width="1491" height="771" alt="Image" src="https://github.com/user-attachments/assets/291e62f1-c1e7-4216-8ea8-61ff4beb882f" />
+
+When the Gas sensor detects the harmul gas
+
+<img width="1461" height="786" alt="Image" src="https://github.com/user-attachments/assets/48ac3b0e-7e6b-4c13-8727-5fa8544772b7" />
